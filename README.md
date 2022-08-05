@@ -8,15 +8,15 @@
 
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-- 🔭 I’m currently working on **AgroAcres**
+- ✦ I’m currently working on **AgroAcres , PerfectBuild**
 
-- 🌱 I’m currently learning **Flutter , Java , Python**
+- ✦ I’m currently learning **Flutter , Java , Python**
 
-- 🤝 I’m looking for help with **Flutter Developer**
+- ✦ I’m looking for help with **Flutter Developer**
 
-- 💬 Ask me about **C , C++ and HTML CSS**
+- ✦ Ask me about **C , C++ and HTML CSS**
 
-- ⚡ Fun fact **my smartness hidden in my laziness**
+- ✦ Fun fact **my smartness hidden in my laziness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
