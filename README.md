@@ -1,10 +1,12 @@
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--AILWL9dz--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6vnsxy7g486k12yp4bhd.jpg)]
 <h1 align="center">Hi 👋, I'm Vraj</h1>
 <h3 align="center">Passionate IT engineer!!</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/AEKma7a5Z6UAAAAC/the-batman.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj1307&label=Profile%20views&color=0e75b6&style=flat" alt="vraj1307" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj1307" alt="vraj1307" /></a> </p>
+
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 - 🔭 I’m currently working on **AgroAcres**
 
